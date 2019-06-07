@@ -11,4 +11,5 @@ git clone https://github.com/KIT-MRT/mrt_cmake_modules.git
 git clone https://github.com/KIT-MRT/rosinterface_handler.git
 
 # build it with profile
+cd ..
 catkin build --profile limo_release
